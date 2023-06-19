@@ -19,4 +19,3 @@ function log(message){
 }
 log('Hello');
 log(123);
-log('ss')
